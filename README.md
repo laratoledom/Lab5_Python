@@ -3,6 +3,11 @@ Quinto projeto para submissão em Python de MC102 (Algoritmos e Programação de
 
 Dando continuidade aos projetos desenvolvidos nos laboratórios de MC102 (explicação no repositório [IniciandoEmPython](https://github.com/laratoledom/IniciandoEmPython/blob/main/README.md)), temos como proposta de desenvolvimento do código o seguinte problema:
 _______________________________________________________________________________________________________________________________________________________________________
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1004187806345740310/1004234201312280626/imagem_1.2.jpg?width=950&height=406" />
+</p>
+<br>
+
 "Uma grande empresa de jogos digitais contratou você para participar do desenvolvimento de um novo jogo a partir da série Arcane, que é uma série animada derivada do jogo League of Legends. 
 
 O seu chefe te alocou em uma das fases do jogo, onde ocorre a luta entre os personagens Jinx e Ekko na ponte da cidade de Piltover.
@@ -56,10 +61,10 @@ Além disso, seu código deverá imprimir o ganhador da batalha. Caso Jinx tenha
 - <b>"Jinx foi a vencedora da batalha"</b>
 
 Caso Ekko tenha vencido, seu código deverá imprimir:
-- <b>"Ekko foi o vencedor da batalha"</b>
+- "Ekko foi o vencedor da batalha"</b>
 
 Caso tenha ocorrido o empate, seu código deverá imprimir:
-<b>"A batalha terminou empatada"</b>
+- <b>"A batalha terminou empatada"</b>
 _______________________________________________________________________________________________________________________________________________________________________
 
 <b>Observações:</b>
